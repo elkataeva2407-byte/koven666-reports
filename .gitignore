@@ -1,0 +1,5 @@
+*.xlsx
+.env
+check_github_*.py
+bot_backup.py
+bot_github_backup.py
